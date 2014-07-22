@@ -1,0 +1,6 @@
+{
+  "accessKeyId": "AWS KEY ID",
+  "secretAccessKey": "AWS ACCESS KEY",
+  "region": "GET VALUE FROM http://docs.aws.amazon.com/general/latest/gr/rande.html#sns_region",
+  "platformApplicationArn": "APPLICATION ARE TO GET THE ENDPOINTS FROM"
+}

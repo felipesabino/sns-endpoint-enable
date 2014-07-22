@@ -5,9 +5,6 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "scripts": {
-    "build": "gulp build"
-  },
   "author": {
     "name": "Felipe Sabino",
     "email": "felipe@sabino.me",
@@ -20,6 +17,7 @@
     }
   ],
   "devDependencies": {
-    "aws-sdk": "2.0.8"
+    "aws-sdk": "2.0.8",
+    "underscore": "1.6.0"
   }
 }
